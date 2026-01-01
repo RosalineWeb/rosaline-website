@@ -1,8 +1,10 @@
-# rosaline-website
-# Rosaline Rastegar Website
+# 💻 Rosaline Rastegar Website
 
-Portfolio website built with **HTML & CSS** — [Live Demo](https://cdpn.io/pen/debug/QwELrQx?authentication_hash=YvkgOWPpnLKk)
-```
+Portfolio website showcasing modern, responsive UI and clean front-end development with **HTML & CSS**.  
+
+🌐 **Live Demo:** [View here](https://cdpn.io/pen/debug/QwELrQx?authentication_hash=YvkgOWPpnLKk)
+
+**Structure:** HTML file + CSS folder + images
 
 
 
