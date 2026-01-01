@@ -1,11 +1,31 @@
 # 💻 Rosaline Rastegar Website
 
-Portfolio website showcasing modern, responsive UI and clean front-end development with **HTML & CSS**.  
+✨ Portfolio website showcasing **modern, responsive UI** and **clean front-end development** with **HTML & CSS**.  
+📂 Structure: `index.html` + `css/style.css` + `assets/images`  
 
-🌐 **Live Demo:** [View here](https://cdpn.io/pen/debug/QwELrQx?authentication_hash=YvkgOWPpnLKk)
+---
 
-**Structure:** HTML file + CSS folder + images
+### 🌐 Live Demo
+[![View Live](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://cdpn.io/pen/debug/QwELrQx?authentication_hash=YvkgOWPpnLKk)
 
+---
+
+### 🛠️ Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📌 Features
+- 🎨 Clean, modern design  
+- 📱 Fully responsive layout  
+- ⚡ Fast-loading and structured code  
+- 🖼️ Simple portfolio showcase
+
+---
+
+### 📫 Contact
+Feel free to reach out if you want to discuss projects or collaborations.
 
 
 ---
