@@ -6,14 +6,16 @@
 ---
 
 ### 🌐 Live Demo
+
 [![View Live](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://cdpn.io/pen/debug/QwELrQx?authentication_hash=YvkgOWPpnLKk)
 
 ---
 
 ### 🛠️ Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[View HTML](index.html) | [View CSS](css/style.css)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://codepen.io/Rosaline-Rastegar/pen/QwELrQx)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://codepen.io/Rosaline-Rastegar/pen/QwELrQx)
+
 
 
 ---
