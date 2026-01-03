@@ -37,5 +37,5 @@ Feel free to reach out if you want to discuss projects or collaborations.
 
 ## Notes
 
-- 100% HTML + CSS (no JavaScript)
+- Built with HTML & CSS, with minimal JavaScript for UI interactions
 - Fully responsive design for desktop and mobile
