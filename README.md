@@ -1,6 +1,7 @@
 # 💻 Rosaline Rastegar Website
 
 ✨ Portfolio website showcasing **modern, responsive UI** and **clean front-end development** with **HTML & CSS**. Light JavaScript is used only for interaction, not logic.
+
 📂 Structure: `index.html` + `css/style.css` + `assets/images`  
 
 ---
