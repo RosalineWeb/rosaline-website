@@ -42,5 +42,4 @@ Feel free to reach out if you want to discuss projects or collaborations.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/rosaline-website/rosaline-website/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/farhad-taheri/farhad-taheri/blob/output/github-contribution-grid-snake.svg)
