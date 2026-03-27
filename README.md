@@ -39,3 +39,8 @@ Feel free to reach out if you want to discuss projects or collaborations.
 
 - Built with HTML & CSS, with minimal JavaScript for UI interactions
 - Fully responsive design for desktop and mobile
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/farhad-taheri/farhad-taheri/blob/output/github-contribution-grid-snake.svg)
+
