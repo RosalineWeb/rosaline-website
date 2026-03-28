@@ -14,7 +14,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: farhad-taheri
+          github_user_name: RosalineWeb
           outputs: |
             dist/github-contribution-grid-snake.svg
 
