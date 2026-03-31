@@ -45,89 +45,19 @@ Feel free to reach out if you want to discuss projects or collaborations.
 ![Snake animation](https://github.com/RosalineWeb/RosalineWeb/blob/output/github-contribution-grid-snake.svg)
 
 
-# 💻 Rosaline Rastegar — Portfolio Website
+# 💻 Rosaline Rastegar Website
 
-A modern front-end portfolio built with **HTML, CSS, and vanilla JavaScript**.  
-The project focuses on **clean UI, interactive components, and strong front-end fundamentals without frameworks**.
+---
+
+## ✨ About Project
+A modern responsive portfolio website built with HTML, CSS and vanilla JavaScript.  
+Focus: clean UI, simple interaction, fast performance.
 
 ---
 
 ## 📁 Project Structure
-
-index.html  
-style.css  
-script.js  
-
----
-
-## 🚀 Live Demo
-
-[View Live Project](https://cdpn.io/pen/debug/QwELrQx?authentication_hash=YvkgOWPpnLKk)
-
----
-
-## 🧠 Overview
-
-This project is a personal portfolio website designed to showcase front-end development skills through a clean, responsive, and interactive interface.
-
-It demonstrates:
-- DOM manipulation
-- Event-driven JavaScript
-- Responsive layout design
-- UI component creation without libraries
-
----
-
-## ⚙️ Features
-
-### 🎯 Project Modal System
-- Dynamic modal popup for each project
-- Content changes based on selected project
-- Click outside or close button to dismiss modal
-
-### ✉️ Contact Form Validation
-- Required field validation
-- Input highlighting for errors
-- Prevents empty form submission
-
-### ✨ Scroll Animations
-- Smooth reveal animations using IntersectionObserver
-- Lightweight and performance-friendly approach
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
----
-
-## 📱 Responsive Design
-
-- Mobile-first approach
-- Flexible layout using Flexbox
-- Optimized for all devices
-
----
-
-## 📌 Key Learnings
-
-- Building interactive UI without frameworks
-- Structuring clean front-end architecture
-- Using data attributes for scalable components
-- Improving UX with lightweight JS
-
----
-
-## 📫 Contact
-
-Open to collaboration and opportunities.
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/RosalineWeb/RosalineWeb/blob/output/github-contribution-grid-snake.svg)
-
+```txt
+index.html
+css/style.css
+js/script.js
+assets/images
