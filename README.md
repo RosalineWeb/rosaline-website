@@ -45,19 +45,4 @@ Feel free to reach out if you want to discuss projects or collaborations.
 ![Snake animation](https://github.com/RosalineWeb/RosalineWeb/blob/output/github-contribution-grid-snake.svg)
 
 
-# 💻 Rosaline Rastegar Website
 
----
-
-## ✨ About Project
-A modern responsive portfolio website built with HTML, CSS and vanilla JavaScript.  
-Focus: clean UI, simple interaction, fast performance.
-
----
-
-## 📁 Project Structure
-```txt
-index.html
-css/style.css
-js/script.js
-assets/images
