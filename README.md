@@ -130,3 +130,4 @@ Open to collaboration and opportunities.
 ## 🐍 Contribution Graph
 
 ![Snake animation](https://github.com/RosalineWeb/RosalineWeb/blob/output/github-contribution-grid-snake.svg)
+
